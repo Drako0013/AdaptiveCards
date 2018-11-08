@@ -23,7 +23,7 @@
 		{
 			"type": "Action.ShowCard",
 			"sentiment": "positive",
-			"title": "Action.Pawsitive",
+			"title": "Action.Positive",
 			"card": {
 				"type": "AdaptiveCard",
 				"body": [],
